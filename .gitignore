@@ -1,0 +1,4 @@
+# Skills synced from Anthropic, not authored here
+synced/
+__pycache__/
+*.pyc
